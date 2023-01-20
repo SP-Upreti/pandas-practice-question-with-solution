@@ -1,6 +1,8 @@
 # pandas-practice-question-with-solution
 Here i have included basic pandas practice question along with its solution.
 
+these questiona were collected from different webpages
+
 
 this questions will provide the basic ideas on how pandas library works.
 
